@@ -1,0 +1,1 @@
+/mnt/c/Users/valeria.ortiz/OneDrive\ -\ NEORIS/Documents/Cursos&Ejercicios/CursosUdemy/Rust/Programming/cargo/target/debug/cargo: /mnt/c/Users/valeria.ortiz/OneDrive\ -\ NEORIS/Documents/Cursos&Ejercicios/CursosUdemy/Rust/Programming/cargo/src/main.rs

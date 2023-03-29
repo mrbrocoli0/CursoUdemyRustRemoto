@@ -1,0 +1,11 @@
+/mnt/c/Users/valeria.ortiz/OneDrive - NEORIS/Documents/Cursos&Ejercicios/CursosUdemy/Rust/Programming/contenido-adicional/sqlite/target/debug/deps/libsqlite3_sys-0e64029e80e9e7b1.rmeta: /home/mrbrocoli/.cargo/registry/src/github.com-1ecc6299db9ec823/libsqlite3-sys-0.22.2/src/lib.rs /home/mrbrocoli/.cargo/registry/src/github.com-1ecc6299db9ec823/libsqlite3-sys-0.22.2/src/error.rs /mnt/c/Users/valeria.ortiz/OneDrive\ -\ NEORIS/Documents/Cursos&Ejercicios/CursosUdemy/Rust/Programming/contenido-adicional/sqlite/target/debug/build/libsqlite3-sys-3b1df13ed9d6824c/out/bindgen.rs
+
+/mnt/c/Users/valeria.ortiz/OneDrive - NEORIS/Documents/Cursos&Ejercicios/CursosUdemy/Rust/Programming/contenido-adicional/sqlite/target/debug/deps/liblibsqlite3_sys-0e64029e80e9e7b1.rlib: /home/mrbrocoli/.cargo/registry/src/github.com-1ecc6299db9ec823/libsqlite3-sys-0.22.2/src/lib.rs /home/mrbrocoli/.cargo/registry/src/github.com-1ecc6299db9ec823/libsqlite3-sys-0.22.2/src/error.rs /mnt/c/Users/valeria.ortiz/OneDrive\ -\ NEORIS/Documents/Cursos&Ejercicios/CursosUdemy/Rust/Programming/contenido-adicional/sqlite/target/debug/build/libsqlite3-sys-3b1df13ed9d6824c/out/bindgen.rs
+
+/mnt/c/Users/valeria.ortiz/OneDrive - NEORIS/Documents/Cursos&Ejercicios/CursosUdemy/Rust/Programming/contenido-adicional/sqlite/target/debug/deps/libsqlite3_sys-0e64029e80e9e7b1.d: /home/mrbrocoli/.cargo/registry/src/github.com-1ecc6299db9ec823/libsqlite3-sys-0.22.2/src/lib.rs /home/mrbrocoli/.cargo/registry/src/github.com-1ecc6299db9ec823/libsqlite3-sys-0.22.2/src/error.rs /mnt/c/Users/valeria.ortiz/OneDrive\ -\ NEORIS/Documents/Cursos&Ejercicios/CursosUdemy/Rust/Programming/contenido-adicional/sqlite/target/debug/build/libsqlite3-sys-3b1df13ed9d6824c/out/bindgen.rs
+
+/home/mrbrocoli/.cargo/registry/src/github.com-1ecc6299db9ec823/libsqlite3-sys-0.22.2/src/lib.rs:
+/home/mrbrocoli/.cargo/registry/src/github.com-1ecc6299db9ec823/libsqlite3-sys-0.22.2/src/error.rs:
+/mnt/c/Users/valeria.ortiz/OneDrive\ -\ NEORIS/Documents/Cursos&Ejercicios/CursosUdemy/Rust/Programming/contenido-adicional/sqlite/target/debug/build/libsqlite3-sys-3b1df13ed9d6824c/out/bindgen.rs:
+
+# env-dep:OUT_DIR=/mnt/c/Users/valeria.ortiz/OneDrive - NEORIS/Documents/Cursos&Ejercicios/CursosUdemy/Rust/Programming/contenido-adicional/sqlite/target/debug/build/libsqlite3-sys-3b1df13ed9d6824c/out

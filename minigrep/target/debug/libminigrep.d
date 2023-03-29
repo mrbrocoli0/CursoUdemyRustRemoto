@@ -1,0 +1,1 @@
+/mnt/c/Users/valeria.ortiz/OneDrive\ -\ NEORIS/Documents/Cursos&Ejercicios/CursosUdemy/Rust/Programming/minigrep/target/debug/libminigrep.rlib: /mnt/c/Users/valeria.ortiz/OneDrive\ -\ NEORIS/Documents/Cursos&Ejercicios/CursosUdemy/Rust/Programming/minigrep/src/lib.rs

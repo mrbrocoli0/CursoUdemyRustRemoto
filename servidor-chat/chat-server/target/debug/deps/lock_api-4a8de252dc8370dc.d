@@ -1,0 +1,10 @@
+/mnt/c/Users/valeria.ortiz/OneDrive - NEORIS/Documents/Cursos&Ejercicios/CursosUdemy/Rust/Programming/servidor-chat/chat-server/target/debug/deps/lock_api-4a8de252dc8370dc.rmeta: /home/mrbrocoli/.cargo/registry/src/github.com-1ecc6299db9ec823/lock_api-0.4.7/src/lib.rs /home/mrbrocoli/.cargo/registry/src/github.com-1ecc6299db9ec823/lock_api-0.4.7/src/mutex.rs /home/mrbrocoli/.cargo/registry/src/github.com-1ecc6299db9ec823/lock_api-0.4.7/src/remutex.rs /home/mrbrocoli/.cargo/registry/src/github.com-1ecc6299db9ec823/lock_api-0.4.7/src/rwlock.rs
+
+/mnt/c/Users/valeria.ortiz/OneDrive - NEORIS/Documents/Cursos&Ejercicios/CursosUdemy/Rust/Programming/servidor-chat/chat-server/target/debug/deps/liblock_api-4a8de252dc8370dc.rlib: /home/mrbrocoli/.cargo/registry/src/github.com-1ecc6299db9ec823/lock_api-0.4.7/src/lib.rs /home/mrbrocoli/.cargo/registry/src/github.com-1ecc6299db9ec823/lock_api-0.4.7/src/mutex.rs /home/mrbrocoli/.cargo/registry/src/github.com-1ecc6299db9ec823/lock_api-0.4.7/src/remutex.rs /home/mrbrocoli/.cargo/registry/src/github.com-1ecc6299db9ec823/lock_api-0.4.7/src/rwlock.rs
+
+/mnt/c/Users/valeria.ortiz/OneDrive - NEORIS/Documents/Cursos&Ejercicios/CursosUdemy/Rust/Programming/servidor-chat/chat-server/target/debug/deps/lock_api-4a8de252dc8370dc.d: /home/mrbrocoli/.cargo/registry/src/github.com-1ecc6299db9ec823/lock_api-0.4.7/src/lib.rs /home/mrbrocoli/.cargo/registry/src/github.com-1ecc6299db9ec823/lock_api-0.4.7/src/mutex.rs /home/mrbrocoli/.cargo/registry/src/github.com-1ecc6299db9ec823/lock_api-0.4.7/src/remutex.rs /home/mrbrocoli/.cargo/registry/src/github.com-1ecc6299db9ec823/lock_api-0.4.7/src/rwlock.rs
+
+/home/mrbrocoli/.cargo/registry/src/github.com-1ecc6299db9ec823/lock_api-0.4.7/src/lib.rs:
+/home/mrbrocoli/.cargo/registry/src/github.com-1ecc6299db9ec823/lock_api-0.4.7/src/mutex.rs:
+/home/mrbrocoli/.cargo/registry/src/github.com-1ecc6299db9ec823/lock_api-0.4.7/src/remutex.rs:
+/home/mrbrocoli/.cargo/registry/src/github.com-1ecc6299db9ec823/lock_api-0.4.7/src/rwlock.rs:
